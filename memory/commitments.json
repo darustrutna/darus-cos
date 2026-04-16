@@ -1,0 +1,41 @@
+{
+  "last_updated": "2026-04-16",
+  "commitments": [
+    {
+      "id": "C001",
+      "what": "NARPM demo ready — 3 killer features working",
+      "deadline": "2026-04-28",
+      "status": "in_progress",
+      "evidence_required": "Working demo of AI voice agents, AI coaching, and Rentor One"
+    },
+    {
+      "id": "C002",
+      "what": "Alden presents marketing report",
+      "deadline": "2026-04-18",
+      "status": "pending",
+      "evidence_required": "Marketing report delivered and reviewed"
+    },
+    {
+      "id": "C003",
+      "what": "Trust reconciliation progress",
+      "deadline": "ongoing",
+      "status": "at_risk",
+      "evidence_required": "Reconciliation status update — 6+ months behind as of 2026-04-09",
+      "notes": "Last verified 2026-04-09. STATUS UNVERIFIED SINCE. DRE risk."
+    },
+    {
+      "id": "C004",
+      "what": "Run Inversion Engine on NARPM launch plan",
+      "deadline": "2026-04-17",
+      "status": "pending",
+      "evidence_required": "Decision brief saved to outputs"
+    },
+    {
+      "id": "C005",
+      "what": "GHL lead gen platform build (agency)",
+      "deadline": "2026-04-28",
+      "status": "in_progress",
+      "evidence_required": "GHL instance connected and generating landing page"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "last_updated": "2026-04-16",
+  "current_filter": "Does this help NARPM on April 28?",
+  "priorities": [
+    {
+      "rank": 1,
+      "item": "Trust reconciliation (DRE existential risk)",
+      "status": "at_risk",
+      "notes": "6+ months behind. Cannot be deprioritized regardless of NARPM."
+    },
+    {
+      "rank": 2,
+      "item": "NARPM demo — AI voice agents, AI coaching, Rentor One",
+      "status": "in_progress",
+      "deadline": "2026-04-28",
+      "days_remaining": 12
+    },
+    {
+      "rank": 3,
+      "item": "Marketing engine — Alden report (Apr 18), GHL build, Rentor Scale CRM",
+      "status": "in_progress"
+    }
+  ]
+}
