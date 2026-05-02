@@ -3,6 +3,7 @@
 - [Brand Hierarchy](brand_rentor_workspace_hierarchy.md) — #1 Business Focus. Rentor Workspace (subscription) > Rentor One (hub) > RentorOS (internal only). Never say "RentorOS" to customers.
 - [Competitive Positioning](strategy_competitive_positioning.md) — "Greenfield vs. Retrofit." Appfolio is bolting AI onto 20-yr-old PMS. We're AI-native. The loop is the moat.
 - [Pricing Principle](strategy_pricing_principle.md) — Half competitor price, 5x cost. Architectural discipline = COGS ≤ 10% of revenue.
+- [Whiteboard Machine Model](strategy_whiteboard_machine_model.md) — Local machine is ephemeral. Durable data in cloud services. Don't recommend whole-machine backup tools.
 - [AI Coaching Stack](tech_ai_coaching_stack.md) — Grok Voice API as LLM for Sales Call AI Coaching. Reads Telnyx transcripts. NARPM Feature #2.
 - [Rentor Priorities](project_rentor_priorities.md) — Trust reconciliation (DRE risk), NARPM April 28, Scale coding IS aligned. Expires 2026-05-15.
 - [NARPM Launch](project_narpum_launch.md) — April 28 quiet launch: AI voice agents, AI coaching, Rentor One. 13 days. Expires 2026-05-05.
