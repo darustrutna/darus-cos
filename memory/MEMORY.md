@@ -1,5 +1,11 @@
 ## HOT — Check every session (active deadlines, current priorities)
 - [3 A's CEO Filter](feedback_aim_army_assets.md) — Darus is a CEO. Push him to Aim (vision), Army (who's in the room), Assets (conviction bets). Challenge everything else. Architect Mode > Founder Mode.
+- [Operator → Owner](feedback_operator_to_owner.md) — PRIMARY CoS directive. Push Darus from doing-everything-himself to bringing in talent. Busy ≠ effective. Test: "Owner work or Operator work?"
+- [App Blueprint](project_app_blueprint.md) — Product strategy source of truth. AppFolio decorator wedge. F1-F5 MVP. 4-week launch sequence. $13M SOM in 24 mo.
+- [Oakline Acquisition](project_oakline_acquisition.md) — Alpine Investors PE rollup wants to buy Rentor. EXISTENTIAL Assets decision. Sequenced AFTER EDGE identity call. Risk: operator-priced sale gives away software upside. Expires 2026-09-15.
+- [EDGE Strategic Fork] — EDGE.rent (ops+AI layer, SAME slot as Workspace, NOT a PMS) showcase June 17-18. Steve Oehlerking (Rent Solutions operator) is founder. Falsifier set: if inconceivable to match their pace/quality, pause Workspace. Decides if Rentor is software co or operator. Premortem: Frameworks/Premortems/premortem-report-2026-06-15-edge-rent.html
+- [VIP Relationships](vip_relationships.md) — People Chief tracks (business + personal). Read by weekly-vip-review for cold alerts.
+- [Life Calendar](life_calendar.md) — Annual events: Aubrey birthday June 8, Eleanor TBD, Anniversary TBD.
 - [Brand Hierarchy](brand_rentor_workspace_hierarchy.md) — #1 Business Focus. Rentor Workspace (subscription) > Rentor One (hub) > RentorOS (internal only). Never say "RentorOS" to customers.
 - [Competitive Positioning](strategy_competitive_positioning.md) — "Greenfield vs. Retrofit." Appfolio is bolting AI onto 20-yr-old PMS. We're AI-native. The loop is the moat.
 - [Pricing Principle](strategy_pricing_principle.md) — Half competitor price, 5x cost. Architectural discipline = COGS ≤ 10% of revenue.

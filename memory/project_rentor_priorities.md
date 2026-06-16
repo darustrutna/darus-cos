@@ -1,16 +1,16 @@
 ---
 name: Rentor Critical Priorities (April 2026)
-description: Trust reconciliation (DRE risk), NARPM launch April 28, sales/marketing stack buildout. Scale coding IS aligned.
+description: Trust reconciliation RESOLVED 2026-05-31. NARPM launched. Sales/marketing stack live. Update needed for June+ priorities.
 type: project
 tier: hot
-expires: "2026-05-15"
-source: Conversation 2026-04-15
-last_verified: "2026-04-15"
+expires: "2026-06-30"
+source: Conversation 2026-04-15; updated 2026-05-31
+last_verified: "2026-05-31"
 originSessionId: 97637e75-e13e-4fd6-beb0-69a64118b124
 ---
 As of 2026-04-15, priorities have shifted. The sales/marketing engine is being built:
 
-1. **Trust reconciliation** — 6 months behind. DRE can revoke their license. Still existential risk. Cannot be deprioritized.
+1. **Trust reconciliation** — ✅ RESOLVED 2026-05-31. Caught up Oct 2025 → Apr 2026 in one sitting after Dreamer Protocol broke the avoidance. Maintenance mode: May 2026 statement due 2026-06-30. DRE existential risk is closed.
 
 2. **NARPM conference — April 28 (2 weeks away)** — Quiet launch target. Get Rentor Scale ready to demo, capture initial inquiries from potential users. This is the hard deadline driving tech work.
 
