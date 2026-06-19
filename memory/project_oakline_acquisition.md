@@ -24,7 +24,7 @@ Oakline Properties — a property-management **rollup platform** launched **Sept
 **How to apply:**
 - Keep talks warm, curious, NON-committal. Rollups price desperation. Gather info.
 - Before advancing: retain M&A attorney + lower-middle-market investment banker (competitive tension; structure/earnout protection). Chief preps but is NOT the transaction advisor (not licensed).
-- Sequencing LOCKED: EDGE clarity first → Oakline second.
+- Sequencing: EDGE clarity ACHIEVED 2026-06-18 — Darus chose to KEEP BUILDING Workspace = Rentor is a SOFTWARE company ([[edge-decision-keep-building]]). Oakline now unblocked to re-open, BUT enter with the software-company lens: a PM-operator rollup likely prices Rentor as an OPERATOR (wrong multiple, gives away software upside). Still REQUIRED before advancing: M&A attorney + lower-middle-market banker. No movement without them.
 - Planned: run inversion-engine/premortem on "sell to Oakline" vs "stay independent" AFTER the EDGE showcase.
 - Watch the internal Army: Stefan + Alden facing 3 simultaneous tremors (Workspace fate, possible sale, Rentvine migration). Manage morale/leak risk.
 

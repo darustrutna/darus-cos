@@ -3,7 +3,7 @@
 - [Operator → Owner](feedback_operator_to_owner.md) — PRIMARY CoS directive. Push Darus from doing-everything-himself to bringing in talent. Busy ≠ effective. Test: "Owner work or Operator work?"
 - [App Blueprint](project_app_blueprint.md) — Product strategy source of truth. AppFolio decorator wedge. F1-F5 MVP. 4-week launch sequence. $13M SOM in 24 mo.
 - [Oakline Acquisition](project_oakline_acquisition.md) — Alpine Investors PE rollup wants to buy Rentor. EXISTENTIAL Assets decision. Sequenced AFTER EDGE identity call. Risk: operator-priced sale gives away software upside. Expires 2026-09-15.
-- [EDGE Strategic Fork] — EDGE.rent (ops+AI layer, SAME slot as Workspace, NOT a PMS) showcase June 17-18. Steve Oehlerking (Rent Solutions operator) is founder. Falsifier set: if inconceivable to match their pace/quality, pause Workspace. Decides if Rentor is software co or operator. Premortem: Frameworks/Premortems/premortem-report-2026-06-15-edge-rent.html
+- [EDGE Decision — RESOLVED 6/18](project_edge_decision.md) — Showcase done. Verdict: do NOT adopt EDGE, KEEP BUILDING Workspace; nothing EDGE has isn't already on the roadmap. Identity answered = SOFTWARE company (→ reframes Oakline: operator rollup = likely WRONG buyer). Chief caveat: roadmap ≠ shipped — hold Darus to ship dates. Scorecard + people dossier: vault/Decisions/.
 - [VIP Relationships](vip_relationships.md) — People Chief tracks (business + personal). Read by weekly-vip-review for cold alerts.
 - [Life Calendar](life_calendar.md) — Annual events: Aubrey birthday June 8, Eleanor TBD, Anniversary TBD.
 - [Brand Hierarchy](brand_rentor_workspace_hierarchy.md) — #1 Business Focus. Rentor Workspace (subscription) > Rentor One (hub) > RentorOS (internal only). Never say "RentorOS" to customers.
