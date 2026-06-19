@@ -1,0 +1,2 @@
+# Machine-local Claude Code settings (permission grants etc.) — do not sync across machines
+.claude/settings.local.json
